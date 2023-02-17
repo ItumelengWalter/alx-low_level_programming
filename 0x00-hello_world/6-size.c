@@ -1,9 +1,12 @@
 #include <stdio.h>
+
 /**
-*main -Entry poiny " A programm that prints the size of various computer types"
-*Return: 0 (Success)
+*main - Entry point 
+*Return: Always 0 (Success)
 */
+
 int main(void)
+
 {
 	printf("Size of a char: %zu bytes(s)\n", sizeof(char));
 	printf("Size of an int: %zu bytes(s)\n", sizeof(int));
