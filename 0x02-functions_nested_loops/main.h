@@ -1,0 +1,15 @@
+#ifndef MAIN_H
+#define MAIN_H
+
+int _putchar(char c);
+void print alphabet (void);
+int _islower(int c);
+int _isalpha(int c);
+int print_sign(int n);
+int _abs(int a);
+int print_last_digit(int num);
+void jack_bauer(void);
+int add(int num1, int num2);
+void print_to_98(int n);
+
+#endif
