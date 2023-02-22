@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Pritnts the first 52 fibonacci numbers
+ * main - Prints the first 52 fibonacci numbers
  * Return: Nothing!
  */
 
